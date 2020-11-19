@@ -1,4 +1,4 @@
-#My Calculator App  
+# My Calculator App  
 
 This is my Calculator Application
 -Designed and built a Graphical User Interface (GUI) calculator using python
